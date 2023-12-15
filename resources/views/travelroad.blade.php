@@ -18,5 +18,6 @@
       <li>{{ $place->name }}</li>
       @endforeach
     </ul>
+    <b>Powered by Laravel</b>
   </body>
 </html>
