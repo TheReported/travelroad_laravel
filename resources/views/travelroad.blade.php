@@ -9,6 +9,6 @@
     <br>
     <a href="{{ url('visited') }}">Places I've Already Been To</a>
     <br>
-    <b>Powered by Laravel</b>
+    <b>Powered by Laravel - Test hecho en clase</b>
   </body>
 </html>
